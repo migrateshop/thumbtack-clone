@@ -26,7 +26,8 @@ The key players of a [service marketplace platform](https://migrateshop.com/serv
 **Admin Panel:** The Admin panel acts as an intermediary between the customers and service providers, facilitating communication, and transactions and ensuring a smooth and trusted experience for both parties.
 
 The service marketplace model offers various advantages like connivances, access to a wide pool of service providers, competitive pricing, and a built-in trust mechanism. By understanding this concept entrepreneurs can effectively develop and implement a successful [thumbtack clone](https://migrateshop.com/thumbtack-clone/) that caters to the growing on-demand industry.
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“thumbtackclone.png" src=" https://github.com/migrateshop/thumbtack-clone/blob/main/images/thumtack-clone-script-migrateshop.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“thumbtackclone.png" src="https://github.com/migrateshop/thumbtack-clone/blob/main/images/thumbtack-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 ## Steps To Make a Profitable Service Marketplace Platform
 
@@ -64,7 +65,7 @@ Erecting a service business using a Thumbtack clone script involves several cruc
 * Continuously optimize your platform to enhance the stoner experience and stay competitive in the request.  
 * By following this way, you can make a successful service business using a Thumbtack clone script and establish a thriving platform for connecting guests with service providers.
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“thumbtackclone.png" src=" https://github.com/migrateshop/thumbtack-clone/blob/main/images/thumbtack-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“thumbtackclone.png" src="https://github.com/migrateshop/thumbtack-clone/blob/main/images/thumtack-clone-script-migrateshop.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 ## Conclusion
 
