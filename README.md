@@ -2,7 +2,8 @@
 
 In the age of the gig economy, online service marketplaces have become increasingly popular, connecting customers with professionals for a wide range of on-demand services. One of the most well-known service marketplace platforms in the market is Thumbtack, which allows customers to find and hire local professionals or service providers for various tasks.
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“thumbtackclone.png" src="[https://github.com/sangvishtechnologies/thumbtack-clone/blob/main/images/thumbtack-clone-script-sangvish.png](https://github.com/migrateshop/thumbtack-clone/blob/main/images/thumbtack-clone.png)" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+ <div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“thumbtackclone.png" src="https://github.com/migrateshop/thumbtack-clone/blob/main/images/thumbtack-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+
 
 # What is Thumbtack Clone?
 
