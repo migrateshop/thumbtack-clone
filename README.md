@@ -73,7 +73,7 @@ Building a successful service marketplace inspired by the success of Thumbtack i
 
 So, leap and embark on this exciting journey. With perseverance, innovation, and a commitment to excellence, you can build a service marketplace that not only meets the demands of today but also shapes the future of how we connect with and consume services.
 
-Explore- https://migrateshop.com/thumbtack-clone/
+Exprience our **LIVE DEMO** - https://migrateshop.com/thumbtack-clone/
 
 **Get In Touch With Us:**
 
